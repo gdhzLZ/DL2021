@@ -55,7 +55,7 @@
 * An example illustrating the usage of the UI-Diff tool is included in the LDiff.class.
 
 ## Statistics of Adapted Oxford ISG
-*![image](https://user-images.githubusercontent.com/60082735/123034535-4531da80-d41c-11eb-9a13-0ccb0cae6282.png)
+* ![image](https://user-images.githubusercontent.com/60082735/123034535-4531da80-d41c-11eb-9a13-0ccb0cae6282.png)
 
 
 
